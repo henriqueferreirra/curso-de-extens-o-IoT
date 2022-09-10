@@ -7,4 +7,6 @@ No TinkerCad, crie o circulo conforme figura abaixo:<br>
 Na programação em blocos, faça assim:<br
 <img src="projeto 2.png"><br>
 <br>
-<a href="projeto 1.png">Clique aqui para o código</a>
+Na programação em blocos, faça assim:<br
+<img src="projeto 1.png"><br>
+<br>
