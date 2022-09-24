@@ -1,11 +1,10 @@
 # curso-de-extens-o-IoT
 
-Projeto alerta de gas br>
-projeto final <br>
-<img src="projeto final.jpg"><br>Clique aqui para o código</a>
+) Projeto Sensor de Movimento com Buzzer<br>
+No TinkerCad, crie o circulo conforme figura abaixo:<br>
+<img src="exemploComSensorDeMovimentoEBuzzer - eletrônica.jpg"><br>
 <br>
-Na programação, faça assim:<br>
-<img src="projeto 3.jpg"><br>
+Na programação em blocos, faça assim:<br>
+<img src="exemploComSensorDeMovimentoEBuzzer - códigoEmBloco.jpg"><br>
 <br>
-<a href="projeto 2.jpg">
-<a href="projeto 1.jpg"> 
+<a href="exemploComSensorDeMovimentoEBuzzer.ino">Clique aqui para o código</a>
