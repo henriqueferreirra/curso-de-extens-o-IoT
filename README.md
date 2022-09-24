@@ -1,6 +1,6 @@
 # curso-de-extens-o-IoT
 
-Meu  projeto final do curso: <br>
+Projeto final do curso, faça assim:<br
 <img src="projeto final.jpg"><br>
 <br>
  Projeto Sensor de Movimento com Buzzer<br>
