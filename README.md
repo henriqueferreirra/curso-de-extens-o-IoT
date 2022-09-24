@@ -7,9 +7,7 @@ No TinkerCad, crie o circulo conforme figura abaixo:<br>
 Na programação em blocos, faça assim:<br
 <img src="projeto 2.png"><br>
 <br>
-Na programação em blocos, faça assim:<br
-<img src="projeto 1.png"><br>
-<br>
 Meu trabalho final do curo 
 < img src="Trabalho final IoT.png"><br>
 <br>
+>Clique aqui para o código</a>
