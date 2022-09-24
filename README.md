@@ -10,6 +10,6 @@ Na programação em blocos, faça assim:<br
 Na programação em blocos, faça assim:<br
 <img src="projeto 1.png"><br>
 <br>
-Meu trabalho final do curso
-<img src="trabalho final IoT.png"><br>
+Meu trabalho final do curo 
+< img src="Trabalho final IoT.png"><br>
 <br>
