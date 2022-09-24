@@ -1,7 +1,7 @@
 # curso-de-extens-o-IoT
 
 Meu  projeto final do curso
-<img src="Trabalho final IoT.jpg"><br>
+<img src="projeto final.jpg"><br>
 <br>
  Projeto Sensor de Movimento com Buzzer<br>
 No TinkerCad, crie o circulo conforme figura abaixo:<br>
