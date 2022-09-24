@@ -1,0 +1,69 @@
+conat int piezo =13;
+conat int vermelho = 11;
+conat int laranja = 9;
+conat int amarelo = 7;
+conat int azul = 6;
+conat int verde = 4;
+conat int gas = A5 ;
+
+void setup()(
+  pinMode(piezo, OUTPUT );
+  pinMode (vermelho, SAÍDA);
+  pinMode (laranja, SAÍDA);
+  pinMode(amarelo, SAÍDA);
+  pinMode(azul,SAÍDA);
+  pinMode ( verde, SAÍDA);
+  
+  Serial,begin(9600);
+)
+  
+void loop()(
+  
+  int valor = analogRead(gas);
+  valor= map(valor,300,750,0,100);
+  
+  if(valor<=20)(
+    digitalWrite(vermelho,BAIXO);
+    digitalWrite(laranja, BAIXO);
+    digitalWrite(amarelo,BAIXO);
+    digitalWrite (azul,BAIXO);
+    digitalWrite(verde,ALTO);
+  )
+  
+  else if (valor<=40)(
+    digitalWrite(vermelho,BAIXO);
+    digitalWrite(laranja, BAIXO);
+    digitalWrite(amarelo,BAIXO);
+    digitalWrite (azul,ALTO):
+    digitalWrite(verde,BAIXO):
+  )
+  
+  else if (valor<=60)( 
+    digitalWrite(vermelho,BAIXO);
+    digitalWrite(laranja, BAIXO);
+    digitalWrite(amarelo,ALTO):
+    digitalWrite (azul,BAIXO):
+    digitalWrite(verde,BAIXO):
+  )
+  
+  else if (valor<=80)(
+    digitalWrite(vermelho,BAIXO);
+    digitalWrite(laranja, ALTO):
+    digitalWrite(amarelo,BAIXO);
+    digitalWrite (azul,BAIXO):
+    digitalWrite(verde,BAIXO):
+  )
+  
+  else(
+    digitalWrite(vermelho,ALTO):
+    digitalWrite(laranja, BAIXO);
+    digitalWrite(amarelo,BAIXO);
+    digitalWrite (azul,BAIXO):
+    digitalWrite(verde,BAIXO):
+    tone(piezo,261.63,100);
+  )
+  
+  Serial.println(valor);
+  delay(500);
+)
+  
