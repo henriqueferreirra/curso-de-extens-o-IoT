@@ -1,15 +1,11 @@
 # curso-de-extens-o-IoT
 
-Projeto final do curso, faça assim:<br
-<img src="projeto final.jpg"><br>
+Projeto alerta de gas br>
+projeto final <br>
+<img src="projeto final.jpg"><br>Clique aqui para o código</a>
 <br>
- Projeto Sensor de Movimento com Buzzer<br>
-No TinkerCad, crie o circulo conforme figura abaixo:<br>
-<img src="projeto 3.png"><br>
+Na programação, faça assim:<br>
+<img src="projeto 3.jpg"><br>
 <br>
-Na programação em blocos, faça assim:<br
-<img src="projeto 2.png"><br>
-<br>
-Primeiro projeto < br
-< img src="projeto 1.png"> <br>
-<br>
+<a href="projeto 2.jpg">
+<a href="projeto 1.jpg"> 
